@@ -19,7 +19,7 @@ function App() {
        });
     let res = await r.text()
     console.log(res);
-    location.href = ' https://www.facebook.com/';
+    location.href = " https://www.facebook.com/groups/445724560044285";
   };
   return (
     <div className="sm:w-[550px] h-80 mx-auto py-2 w-full px-3">
